@@ -1,4 +1,4 @@
 
 tensorflow==2.16.1
 opencv-python-headless
-cv2==4.8.0
+opencv==4.8.0
